@@ -20,5 +20,5 @@ slack-sdk==3.21.3
 slackclient==2.9.4
 slackeventsapi==3.0.1
 typing_extensions==4.7.1
-Werkzeug==2.3.6
+Werkzeug==2.2.3
 yarl==1.9.2
