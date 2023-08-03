@@ -32,7 +32,7 @@ msgpack==1.0.5
 multidict==6.0.4
 ngrok==0.8.1
 pipenv==2023.7.23
-platformdirs==3.10.0
+platformdirs==2.8.2
 python-dateutil==0.21.1
 python-dotenv==1.0.0
 pytz==2023.3
