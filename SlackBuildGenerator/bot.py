@@ -35,6 +35,7 @@ def update_build_numbers(build_numbers):
 
 # Function to extract version and build number from the message
 def extract_version_build(message_text):
+    message_text = message_text.upper()
     pattern = r'SP(Dev|Test|Beta) v(\d+\.\d+\.\d+)\s+\((\d+)\)'
     match = re.search(pattern, message_text)
     if match:
